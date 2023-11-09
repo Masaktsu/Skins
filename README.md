@@ -17,8 +17,8 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Syaro Kirima BTMC](https://cdn.discordapp.com/attachments/749686438341247147/1171991015075352677/-_Syaro_Kirima_BTMC_-.osk?ex=655eb0b0&is=654c3bb0&hm=d7a4afa1430b9c92e150b9ee1883a78fd725b0cca27cdd855feb95059a9c6fad&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171990973203632198/screenshot042.jpg?ex=655eb0a6&is=654c3ba6&hm=70be90c92088e8c3f21e290cba13dfedd0b25c6e1165afb6ee9811291fa87eab&)
 
-# [Tekkito Koi Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171986220591628410/Tekkito_Koi_Edit.osk?ex=655eac39&is=654c3739&hm=5ff9e835b502ed76ea702269b581819aa469c4cc80c34a832a44cb82222c5b71&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171986536972161065/screenshot040.jpg?ex=655eac84&is=654c3784&hm=f726eb71d1ea47b520acdba802daac31883907cd707fa60ca6eaa7268b0d436f&)
-
 # [Boom Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171988817222303814/boom_edit.osk?ex=655eaea4&is=654c39a4&hm=6016e2fd1aadb6900b59d84c09bba54c399d23fbbddaa454bc32d3276b13b9f7&)
 ![](https://media.discordapp.net/attachments/749686438341247147/1171987400013135983/screenshot041.jpg?ex=655ead52&is=654c3852&hm=0a4189b9ab4a24231802ed52f93368ba5ce1e13be11d0291df84d2eaa5408971&=&width=1609&height=905)
+
+# [Tekkito Koi Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171986220591628410/Tekkito_Koi_Edit.osk?ex=655eac39&is=654c3739&hm=5ff9e835b502ed76ea702269b581819aa469c4cc80c34a832a44cb82222c5b71&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171986536972161065/screenshot040.jpg?ex=655eac84&is=654c3784&hm=f726eb71d1ea47b520acdba802daac31883907cd707fa60ca6eaa7268b0d436f&)
