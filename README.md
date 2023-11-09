@@ -29,5 +29,8 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1172240220008226826/Cirno-V1.0.osk?ex=655f98c7&is=654d23c7&hm=3a79342f379a06f60aefd7001b426dff3c152ff7c141c2313e5b71be09a4dd75&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1172239794512875570/image.png?ex=655f9862&is=654d2362&hm=b8b006fb56b4ac460bd2dd22e352e9410b252d1c31144c6f032bca55797f297f&)
 
+# [Monko Edit](https://cdn.discordapp.com/attachments/749686438341247147/1172243590542540872/MonkoEdit.osk?ex=655f9beb&is=654d26eb&hm=af2a2e30b542b62970925fb809729e22089040d3455dcf8ac43a5c226d636846&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1172243552831541328/screenshot048.jpg?ex=655f9be2&is=654d26e2&hm=cbb925ef5afb0261b7eaf7cd4282a656fdb2cda339a58f693f30c5c0a386bd41&)
+
 # [HT Walnut V1](https://cdn.discordapp.com/attachments/749686438341247147/1172237915519197236/-_HT_Walnut_1.0_clrs.osk?ex=655f96a2&is=654d21a2&hm=42c80026b7b566d1bdc8ed59e35f129e4a7e3659da0a95eb0b84df4ebabe1e6e&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1172237975535489055/image.png?ex=655f96b0&is=654d21b0&hm=7438ac016040fc91434c8f2c89615f36dfaa87db8aa3ef5123971c9ce8113e11&)
