@@ -3,7 +3,7 @@ The following readme will serve to document all of Masakatsu's skins.
 
 ## ORDER: 
 The order goes as followed: 
-- it will descend based on the date added.
+- it will descend based on when the skin was mashed and created.
 
 ## NOTICE:
 I will update this list if there are new skins avaiable. Most of em are mashed skins so please show some love to the original owners :).
