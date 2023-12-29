@@ -26,9 +26,9 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 ![](https://media.discordapp.net/attachments/749686438341247147/1171987400013135983/screenshot041.jpg?ex=655ead52&is=654c3852&hm=0a4189b9ab4a24231802ed52f93368ba5ce1e13be11d0291df84d2eaa5408971&=&width=1609&height=905)
 
 # [Tekkito Koi Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171986220591628410/Tekkito_Koi_Edit.osk?ex=655eac39&is=654c3739&hm=5ff9e835b502ed76ea702269b581819aa469c4cc80c34a832a44cb82222c5b71&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171986536972161065/screenshot040.jpg?ex=655eac84&is=654c3784&hm=f726eb71d1ea47b520acdba802daac31883907cd707fa60ca6eaa7268b0d436f&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=65a11f5f&is=658eaa5f&hm=1a3f6aeee028ecd10deaafe9e648c50d8684888ffe69c70266bf2851e9cea3e8&)
 
-# [Cirno-v1.0](https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=65a11f5f&is=658eaa5f&hm=1a3f6aeee028ecd10deaafe9e648c50d8684888ffe69c70266bf2851e9cea3e8&)
+# [Cirno-v1.0](https://cdn.discordapp.com/attachments/749686438341247147/1190251721922969681/screenshot078.jpg?ex=65a11f4c&is=658eaa4c&hm=8a74adb5b9f95c12f2e754a8508aee6ac038affcdf1d1c0fb1631c4402504b45&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1190251721922969681/screenshot078.jpg?ex=65a11f4c&is=658eaa4c&hm=8a74adb5b9f95c12f2e754a8508aee6ac038affcdf1d1c0fb1631c4402504b45&)
 
 # [Monko Edit](https://cdn.discordapp.com/attachments/749686438341247147/1172243590542540872/MonkoEdit.osk?ex=655f9beb&is=654d26eb&hm=af2a2e30b542b62970925fb809729e22089040d3455dcf8ac43a5c226d636846&)
