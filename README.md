@@ -1,4 +1,4 @@
-
+![image](https://github.com/Masakatsuu/Skins/assets/150305791/cd09d925-41cf-4e83-bcb5-658c183b896d)
 The following readme will serve to document all of Masakatsu's skins.
 
 ## ORDER: 
@@ -29,8 +29,8 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Tekkito Koi Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171986220591628410/Tekkito_Koi_Edit.osk?ex=655eac39&is=654c3739&hm=5ff9e835b502ed76ea702269b581819aa469c4cc80c34a832a44cb82222c5b71&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171986536972161065/screenshot040.jpg?ex=655eac84&is=654c3784&hm=f726eb71d1ea47b520acdba802daac31883907cd707fa60ca6eaa7268b0d436f&)
 
-# [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1172240220008226826/Cirno-V1.0.osk?ex=655f98c7&is=654d23c7&hm=3a79342f379a06f60aefd7001b426dff3c152ff7c141c2313e5b71be09a4dd75&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1172239794512875570/image.png?ex=655f9862&is=654d2362&hm=b8b006fb56b4ac460bd2dd22e352e9410b252d1c31144c6f032bca55797f297f&)
+# [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1190251721922969681/screenshot078.jpg?ex=65a11f4c&is=658eaa4c&hm=8a74adb5b9f95c12f2e754a8508aee6ac038affcdf1d1c0fb1631c4402504b45&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=65a11f5f&is=658eaa5f&hm=1a3f6aeee028ecd10deaafe9e648c50d8684888ffe69c70266bf2851e9cea3e8&)
 
 # [Monko Edit](https://cdn.discordapp.com/attachments/749686438341247147/1172243590542540872/MonkoEdit.osk?ex=655f9beb&is=654d26eb&hm=af2a2e30b542b62970925fb809729e22089040d3455dcf8ac43a5c226d636846&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1172243552831541328/screenshot048.jpg?ex=655f9be2&is=654d26e2&hm=cbb925ef5afb0261b7eaf7cd4282a656fdb2cda339a58f693f30c5c0a386bd41&)
