@@ -13,6 +13,9 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Tekkito 2 Seoul (Rushio Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527348678738/tekkito2_Seoul_Rushio_Edit.osk?ex=655eab94&is=654c3694&hm=c311e60cb6804a763d3e247cec4a47c933b3eb133736194e409e36d328ec746c&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=655eaac1&is=654c35c1&hm=2826d2fcfadd9ace76360e2cc4ad5dd2b0e06b45e2f1ca9f48c6a0fdea7bbd8d&)
 
+# [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=65a11f5f&is=658eaa5f&hm=1a3f6aeee028ecd10deaafe9e648c50d8684888ffe69c70266bf2851e9cea3e8&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1190251721922969681/screenshot078.jpg?ex=65a11f4c&is=658eaa4c&hm=8a74adb5b9f95c12f2e754a8508aee6ac038affcdf1d1c0fb1631c4402504b45&)
+
 # [Vaxei 2023 Edit](https://cdn.discordapp.com/attachments/749686438341247147/1181353523892473866/Vaxei_2023_Edit.osk?ex=6580c034&is=656e4b34&hm=432b58100f7e4b00e59b45e2bb6eca45e0815ab8d5109701e573ee9769ee61be&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1181353869905756180/screenshot059.jpg?ex=6580c087&is=656e4b87&hm=1a85bcbb6fa4880093a225d94ea99f8aa157a68cc8fd0f58566d92c2c3e9588c&)
 
@@ -21,9 +24,6 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 
 # [NM Megumin](https://cdn.discordapp.com/attachments/749686438341247147/1171995101904519198/NMMegumin.osk?ex=655eb47e&is=654c3f7e&hm=ba76607cac18e4980119d67c6564236af6facf5d9261f8f9d24e4f50fd0c526b&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171994977644068905/screenshot044.jpg?ex=655eb461&is=654c3f61&hm=9f5402bb8ab5606267ed7f8c8ce3850abc792c6e8c99d1c896ca8889fb9fcaad&)
-
-# [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=65a11f5f&is=658eaa5f&hm=1a3f6aeee028ecd10deaafe9e648c50d8684888ffe69c70266bf2851e9cea3e8&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1190251721922969681/screenshot078.jpg?ex=65a11f4c&is=658eaa4c&hm=8a74adb5b9f95c12f2e754a8508aee6ac038affcdf1d1c0fb1631c4402504b45&)
 
 # [Boom Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171988817222303814/boom_edit.osk?ex=655eaea4&is=654c39a4&hm=6016e2fd1aadb6900b59d84c09bba54c399d23fbbddaa454bc32d3276b13b9f7&)
 ![](https://media.discordapp.net/attachments/749686438341247147/1171987400013135983/screenshot041.jpg?ex=655ead52&is=654c3852&hm=0a4189b9ab4a24231802ed52f93368ba5ce1e13be11d0291df84d2eaa5408971&=&width=1609&height=905)
