@@ -22,7 +22,7 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [NM Megumin](https://cdn.discordapp.com/attachments/749686438341247147/1171995101904519198/NMMegumin.osk?ex=655eb47e&is=654c3f7e&hm=ba76607cac18e4980119d67c6564236af6facf5d9261f8f9d24e4f50fd0c526b&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171994977644068905/screenshot044.jpg?ex=655eb461&is=654c3f61&hm=9f5402bb8ab5606267ed7f8c8ce3850abc792c6e8c99d1c896ca8889fb9fcaad&)
 
-# [Cirno-V1] (https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=65a11f5f&is=658eaa5f&hm=1a3f6aeee028ecd10deaafe9e648c50d8684888ffe69c70266bf2851e9cea3e8&)
+# [Cirno V1] (https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=65a11f5f&is=658eaa5f&hm=1a3f6aeee028ecd10deaafe9e648c50d8684888ffe69c70266bf2851e9cea3e8&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1190251721922969681/screenshot078.jpg?ex=65a11f4c&is=658eaa4c&hm=8a74adb5b9f95c12f2e754a8508aee6ac038affcdf1d1c0fb1631c4402504b45&)
 
 # [Boom Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171988817222303814/boom_edit.osk?ex=655eaea4&is=654c39a4&hm=6016e2fd1aadb6900b59d84c09bba54c399d23fbbddaa454bc32d3276b13b9f7&)
