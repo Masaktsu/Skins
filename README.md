@@ -1,4 +1,3 @@
-![image](https://github.com/Masakatsuu/Skins/assets/150305791/cd09d925-41cf-4e83-bcb5-658c183b896d)
 The following readme will serve to document all of Masakatsu's skins.
 
 ## ORDER: 
