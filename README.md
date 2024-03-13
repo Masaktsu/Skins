@@ -1,4 +1,4 @@
-The following readme will serve to document all of Masakatsu's skins.
+The following readme will serve to document all of Masakatsu's skins man.
 
 ## ORDER: 
 The order goes as followed: 
