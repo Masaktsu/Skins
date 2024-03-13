@@ -13,8 +13,8 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Tekkito 2 Seoul (Rushio Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527348678738/tekkito2_Seoul_Rushio_Edit.osk?ex=655eab94&is=654c3694&hm=c311e60cb6804a763d3e247cec4a47c933b3eb133736194e409e36d328ec746c&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=655eaac1&is=654c35c1&hm=2826d2fcfadd9ace76360e2cc4ad5dd2b0e06b45e2f1ca9f48c6a0fdea7bbd8d&)
 
-# [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=65a11f5f&is=658eaa5f&hm=1a3f6aeee028ecd10deaafe9e648c50d8684888ffe69c70266bf2851e9cea3e8&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1190251721922969681/screenshot078.jpg?ex=65a11f4c&is=658eaa4c&hm=8a74adb5b9f95c12f2e754a8508aee6ac038affcdf1d1c0fb1631c4402504b45&)
+# [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1190251721922969681/screenshot078.jpg?ex=65fd684c&is=65eaf34c&hm=89ea97b8ab3edf01ef99af775d122efb2bfcf7d709508c98ce6816fe1689a9a8&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=65fd685f&is=65eaf35f&hm=4da91bc06467540d16cbe67b880440d66f0297f3e9183457bebb7883ea2c13bf&)
 
 # [Vaxei 2023 Edit](https://cdn.discordapp.com/attachments/749686438341247147/1181353523892473866/Vaxei_2023_Edit.osk?ex=6580c034&is=656e4b34&hm=432b58100f7e4b00e59b45e2bb6eca45e0815ab8d5109701e573ee9769ee61be&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1181353869905756180/screenshot059.jpg?ex=6580c087&is=656e4b87&hm=1a85bcbb6fa4880093a225d94ea99f8aa157a68cc8fd0f58566d92c2c3e9588c&)
